@@ -1,7 +1,7 @@
 # Preparation
-Downloaded and installed the OPENVAS vulnerability scanner and running ZENMAP / NMAP on local system. Once done, scan and provide proof of updated NVT database. 
+Downloaded and installed the OPENVAS vulnerability scanner and ran ZENMAP / NMAP on local system. Once done, provided proof of updated NVT database. 
 
-### Proof: Scan
+### Proof: Local System Scan
 ![inkedzen1_li](https://user-images.githubusercontent.com/26984030/27211978-c436ba62-5211-11e7-9f42-8dc54b29a2b6.jpg)
 
 ### Proof: Report
