@@ -1,5 +1,5 @@
 # Preparation
-Attacked windows 2008 server again but this time create a backdoor (Persistence) into this server. Find a separate vulnerability from last assignment and exploit by hacking to the server.
+Attacked windows 2008 server again but this time create a backdoor (Persistence) into this server. Find a separate vulnerability from last assignment and exploit by hacking into to the server.
  
  ### Proof: Persistence 
 ![1](https://user-images.githubusercontent.com/26984030/27212530-8f363604-5215-11e7-9469-463dc1a5faa1.PNG)
