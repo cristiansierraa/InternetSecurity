@@ -1,7 +1,7 @@
 # Preparation
 Scan and attack the Metasploitable Server then break into the server.
 
-### Proof: NMAP/OpenVAS Scan to find vulnerabilities
+### Proof: ZENMAP Scan to find vulnerabilities
 ![nmap](https://user-images.githubusercontent.com/26984030/27213265-99a8a34c-521a-11e7-8615-7146cc7aef66.PNG)
 
 ### Proof: Attacked and Broke into the server
