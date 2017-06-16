@@ -1,2 +1,2 @@
 # InternetSecurity
-This was an introduction to computer security in network system. Security issues and policies with regards to hardware, software development, database, operating systems and networks.
+This was an introduction to computer security in a network system. These security issues and policies applied to hardware, software development, database, operating systems and networks.
