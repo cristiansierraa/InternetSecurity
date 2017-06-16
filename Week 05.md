@@ -1,7 +1,7 @@
 # Preparation
-Attack Windows 2008 server again but this time use Metasploit or Armitage do the following: Dump the passwords from the server and escalate  a user's privilege and add them to local administrator group.
+Attack Windows 2008 server again but this time use Metasploit or Armitage do the following: Dump Passwords Hashes from the server and then escalate a user's privilege to add them to local administrator group.
 
-### Proof: Dumped and cracked the hashes of the password files
+### Proof: Dumped & Cracked password files hashes
 ![dumped and cracked the hashes](https://user-images.githubusercontent.com/26984030/27212808-7d7a25e0-5217-11e7-8730-5d4a142e6722.PNG)
 
 ### Proof: Privilege Escalation
