@@ -1,5 +1,5 @@
 # Preparation
-Attacked the Metasploitable Linux server provided in a VM by the instructor. Do the following: find my machines IP and targets IP, NMAP / OpenVAS scan, load Metasploit or Armitage to find vulnerabilities.
+Scan and attack the Metasploitable Server then break into the server.
 
 ### Proof: NMAP/OpenVAS Scan to find vulnerabilities
 ![nmap](https://user-images.githubusercontent.com/26984030/27213265-99a8a34c-521a-11e7-8615-7146cc7aef66.PNG)
